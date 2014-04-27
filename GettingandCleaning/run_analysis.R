@@ -3,7 +3,7 @@ run_analysis<-function(){
 	library("reshape2")
 	
 	##Getting Columnames from features.txt and colums we want for analysis (means and sd)
-	myVarnames<-read.table("UCI HAR Dataset/features.txt",colClasses="factor", nrows=562)
+	myVarnames<-read.table("UCI HAR Dataset/features.txt",nrows=562)
 	myCols<-myVarnames[grep("mean\\(\\)|std\\(\\)",myVarnames[,2]),1]
 	myColnames<-myVarnames[,2]
 
