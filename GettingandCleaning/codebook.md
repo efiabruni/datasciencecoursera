@@ -48,8 +48,8 @@ tBodyAccJerk-mean()-X: Jerk signals from the accelerometer, x-axis, average of m
 tBodyAccJerk-mean()-Y: Jerk signals from the accelerometer, y-axis, average of mean        
 tBodyAccJerk-mean()-Z: Jerk signals from the accelerometer, z-axis, average of mean   
 tBodyAccJerk-std()-X: Jerk signals from the accelerometer, x-axis, average of standart  deviation           
-tBodyAccJerk-std()-Y: Jerk signals from the accelerometer, y-axis, average of standart deviatio           
-tBodyAccJerk-std()-Z: Jerk signals from the accelerometer, z-axis, average of standart deviatio           
+tBodyAccJerk-std()-Y: Jerk signals from the accelerometer, y-axis, average of standart deviation           
+tBodyAccJerk-std()-Z: Jerk signals from the accelerometer, z-axis, average of standart deviation          
 
 tBodyGyro-mean()-X: Signals from the gyroscope, x-axis, average of mean           
 tBodyGyro-mean()-Y: Signals from the gyroscope, y-axis, average of mean            
@@ -60,9 +60,9 @@ tBodyGyro-std()-Z: Signals from the gyroscope, z-axis, average of standart devia
 
 tBodyGyroJerk-mean()-X: Jerk signals from the gyroscope, x-axis, average of mean           
 tBodyGyroJerk-mean()-Y: Jerk signals from the gyroscope, y-axis, average of mean            
-tBodyGyroJerk-mean()-Z: Jerk signals from the gyroscope, z-axis, average of mean            
-tBodyGyroJerk-std()-X: Jerk signals from the gyroscope, x-axis, average of standart deviation 
-tBodyGyroJerk-std()-Y: Jerk signals from the gyroscope, y-axis, average of standart deviation 
+tBodyGyroJerk-mean()-Z: Jerk signals from the gyroscope, z-axis, average of mean               
+tBodyGyroJerk-std()-X: Jerk signals from the gyroscope, x-axis, average of standart deviation  
+tBodyGyroJerk-std()-Y: Jerk signals from the gyroscope, y-axis, average of standart deviation  
 tBodyGyroJerk-std()-Z: Jerk signals from the gyroscope, z-axis, average of standart deviation 
 
 tBodyAccMag-mean(): Magnitude of body acceleration, average of mean   
